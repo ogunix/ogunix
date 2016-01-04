@@ -1,0 +1,14 @@
+[package]
+name = "init"
+version = "0.1.0"
+authors = ["McCorney Severin <mccorney@gmail.com>"]
+
+
+
+[lib]
+name = "init"
+path = "init.rs"
+
+[dependencies]
+ogunix = {path = "../base/ogunix"}
+container = {path = "../lib/container"} 

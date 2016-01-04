@@ -1,0 +1,16 @@
+[root]
+name = "init"
+version = "0.1.0"
+dependencies = [
+ "container 0.1.0",
+ "ogunix 0.1.0",
+]
+
+[[package]]
+name = "container"
+version = "0.1.0"
+
+[[package]]
+name = "ogunix"
+version = "0.1.0"
+

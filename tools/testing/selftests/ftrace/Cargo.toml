@@ -1,0 +1,8 @@
+[package]
+name = "ftrace"
+version = "0.1.0"
+authors = ["McCorney Severin <projects.mccorney@gmail.com>"]
+
+[[bin]]
+name = "ftrace"
+path = "main.rs"

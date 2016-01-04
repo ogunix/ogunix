@@ -1,0 +1,13 @@
+[package]
+name = "realtime"
+version = "0.1.0"
+authors = ["McCorney Severin <projects.mccorney@gmail.com>"]
+
+
+
+[lib]
+name = "realtime"
+path = "lib.rs"
+
+[dependencies]
+ogunix = {path = "../../../base/ogunix"} 

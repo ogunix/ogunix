@@ -1,0 +1,9 @@
+[package]
+name = "ogunix"
+version = "0.1.0"
+authors = ["McCorney Severin <projects.mccorney@gmail.com>"]
+
+[lib]
+name = "ogunix"
+path = "lib.rs"
+

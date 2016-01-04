@@ -1,0 +1,11 @@
+[root]
+name = "realtime"
+version = "0.1.0"
+dependencies = [
+ "ogunix 0.1.0",
+]
+
+[[package]]
+name = "ogunix"
+version = "0.1.0"
+

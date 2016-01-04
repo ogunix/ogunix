@@ -1,0 +1,15 @@
+THE OGUNIX BUILD PROCESS 
+
+
+
+***PACKAGE BUILD ORDER***
+
+1. base package. 
+2. lib package - relies on base.
+3. kernel package - relies on base package.
+4. init package - relies on base, and kernel.
+5. modules
+7. tools
+
+
+

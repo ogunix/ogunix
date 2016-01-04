@@ -1,0 +1,10 @@
+[package]
+name = "x86"
+version = "0.1.0"
+authors = ["McCorney Severin <projects.mccorney@gmail.com>"]
+
+
+
+[lib]
+name = "x86"
+path = "lib.rs"

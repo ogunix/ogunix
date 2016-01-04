@@ -1,0 +1,12 @@
+[package]
+name = "fair"
+version = "0.1.0"
+authors = ["McCorney Severin <mccorney@gmail.com>"]
+
+[lib]
+name = "fair"
+path = "lib.rs"
+
+[dependencies]
+ogunix = {path = "../../../base/ogunix"} 
+

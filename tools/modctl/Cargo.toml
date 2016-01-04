@@ -1,0 +1,15 @@
+[package]
+name = "modctl"
+version = "0.1.0"
+authors = ["McCorney Severin <projects.mccorney@gmail.com>"]
+
+
+[lib]
+name = "modctl"
+path = "lib.rs"
+
+
+[[bin]]
+name = "modctl"
+path = "main.rs"
+

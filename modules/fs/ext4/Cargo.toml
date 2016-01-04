@@ -1,0 +1,8 @@
+[package]
+name = "ext4"
+version = "0.1.0"
+authors = ["McCorney Severin <mccorney@gmail.com>"]
+
+[lib]
+name = "ext4"
+path = "lib.rs"

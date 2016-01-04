@@ -1,0 +1,15 @@
+[package]
+name = "boot"
+version = "0.1.0"
+authors = ["McCorney Severin <projects.mccorney@gmail.com>"]
+
+
+[lib]
+name = "boot"
+path = "lib.rs"
+
+[[bin]]
+name = "vmogunix"
+path = "main.rs"
+
+
